@@ -22,6 +22,8 @@ mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribu
 ### C.
 Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?
 
+Dari poin a didapat 0.1024 dan dari poin b didapat 0.1042. keduanya dapat dikatakan memiliki hasil yang mirip atau mendekati. keduanya dapat digunakan distribusi geometri.
+
 ### D.
 Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
 
@@ -70,6 +72,8 @@ simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini
 
 ### C.
 dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
+
+Hasil yang didapat pada poin a dan poin b berbeda. pada poin a memiliki hasil tetap sedangkan pada poin b memiliki hasil yang berbeda beda.
 
 ### D.
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
